@@ -1,0 +1,14 @@
+{
+  "name": "TDD-Demo-Session",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/obasajujoshua31/TDD-Demo-Session.git",
+  "author": "obasajujoshua31 <obasajujoshua31@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
